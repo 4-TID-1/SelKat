@@ -1,2 +1,7 @@
 This text makes sense
+<<<<<<< HEAD
 SelChange
+=======
+Sel
+
+>>>>>>> 969553e3e55c5ea9b43f861e057eaaa075640798
